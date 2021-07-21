@@ -8,4 +8,7 @@
 
 
 ### Example:
+
+```
 ./client-linux --subdomain mycoolapp --port 8000
+```
